@@ -1,2 +1,2 @@
-## Sign-Trans
-# Automated Two Way Sign and Speech Translator using ML-assisted models
+# Sign-Trans
+## Automated Two Way Sign and Speech Translator using ML-assisted models
